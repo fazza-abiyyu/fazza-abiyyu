@@ -10,6 +10,7 @@ I work on building web applications with a focus on backend development:
 - Tools: REST APIs and Database Management
 
 📊 Data Science & Machine Learning Enthusiast
+
 I’m interested in data analysis and machine learning, aiming to understand how data can be used for practical insights:
 
 - Skills: Data Analysis, Machine Learning, and Data Visualization
