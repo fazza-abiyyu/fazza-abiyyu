@@ -1,5 +1,4 @@
-# fazza-abiyyu
-👋 Hi there! I'm Fazza Abiyyu, a dedicated backend developer and Data Science/ML enthusiast with a passion for transforming ideas into scalable solutions.
+👋 Hi there! I'm Muhammad Fazza Abiyyu, a dedicated backend developer and Data Science/ML enthusiast with a passion for transforming ideas into scalable solutions.
 
 🌐 Backend Developer
 
