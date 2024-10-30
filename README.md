@@ -2,6 +2,7 @@
 👋 Hi there! I'm Fazza Abiyyu, a dedicated backend developer and Data Science/ML enthusiast with a passion for transforming ideas into scalable solutions.
 
 🌐 Backend Developer
+
 I work on building web applications with a focus on backend development:
 
 - Languages: Python, SQL
@@ -16,4 +17,5 @@ I’m interested in data analysis and machine learning, aiming to understand how
 - Project Focus: Classification, Regression, and Clustering
 
 💡 About Me
+
 I enjoy combining development and data projects to learn more and build useful tools. Open to connecting and collaborating on projects that help me grow.
