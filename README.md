@@ -7,7 +7,7 @@ I'm a **backend developer** and **Data Science/ML enthusiast** focused on transf
 - 🐍 **Python** (Django, Flask, Data Science)
 - 💻 **TypeScript** (Node.js, Express)
 - 📊 **Machine Learning/Deep Learning** (TensorFlow, Scikit-learn, Pandas)
-- 🗄️ **Databases** (MySQL, PostgreSQL, MongoDB)
+- 🗄️ **Databases** (MySQL, MariaDB)
 
 ## ML & DS Projects
 Here are a few projects I'm working on:
