@@ -4,8 +4,8 @@ I'm a **backend developer** and **Data Science/ML enthusiast** focused on transf
 
 ## Tech Stack
 
-- 🐍 **Python** (Django, Flask, Data Science)
-- 💻 **TypeScript** (Node.js, Express)
+- 🐍 **Python** (Flask, Data Science)
+- 💻 **TypeScript** (Node.js, NuxtJs)
 - 📊 **Machine Learning/Deep Learning** (TensorFlow, Scikit-learn, Pandas)
 - 🗄️ **Databases** (MySQL, MariaDB)
 
