@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fazza Abiyyu
 
-I'm a **backend developer** and **Data Science/ML enthusiast** focused on transforming ideas into scalable solutions. I enjoy building powerful backend systems and exploring the world of machine learning to solve real-world problems.
+I'm a **backend developer** and **Data Science/ML enthusiast** focused on transforming ideas into scalable solutions.
 
 ## Tech Stack
 
