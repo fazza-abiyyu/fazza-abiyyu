@@ -5,7 +5,7 @@ I'm a **backend developer** and **Data Science/ML enthusiast** focused on transf
 ## Tech Stack
 
 - 🐍 **Python** (Flask, Data Science)
-- 💻 **TypeScript** (Node.js, NuxtJs)
+- 💻 **TypeScript** (Node.js, NuxtJs, NestJs)
 - 📊 **Machine Learning/Deep Learning** (TensorFlow, Scikit-learn, Pandas)
 - 🗄️ **Databases** (MySQL, MariaDB)
 
