@@ -1,23 +1,25 @@
 # 👋 Hi, I'm Fazza Abiyyu
 
-I'm a **backend developer**, **Data Science/ML enthusiast**, and **Chatbot Enthusiast** passionate about crafting intelligent systems and scalable solutions.
+I'm an **AI Integration Specialist** and **Backend Developer** passionate about connecting intelligent systems into real-world applications.  
+I focus on building scalable backends, integrating AI models into production, and designing systems that make data and automation truly useful.
 
 ## 🚀 Tech Stack
 
-- 🐍 **Python** (Flask, Data Science)
-- 💻 **TypeScript** (Node.js, NuxtJs, NestJs, ExpressJs)
-- 🤖 **Chatbot Development** (AI-powered conversational agents, persona-based dialogue systems)
-- 📊 **Machine Learning/Deep Learning** (TensorFlow, Scikit-learn, Pandas)
-- 🗄️ **Databases** (MySQL, MariaDB, MongoDB)
+- 🐍 **Python** (FastAPI, Flask, Data Science workflows)  
+- 💻 **TypeScript** (Node.js, Nuxt.js, NestJS, Express.js)  
+- 🤖 **AI Integration** (LLM APIs, LangChain, RAG pipelines, Chatbot orchestration)  
+- 📊 **Machine Learning / Data Engineering** (TensorFlow, Scikit-learn, Pandas, ETL pipelines)  
+- 🗄️ **Databases** (MySQL, MariaDB, MongoDB, PostgreSQL, Prisma ORM)  
+- ⚙️ **DevOps & Automation** (Docker, CI/CD, API orchestration, n8n/automation flows)  
 
-## 🔬 ML & DS Projects
+## 🔬 Projects & Interests
 
-Here are a few projects I'm working on:
-
-- 🧠 **Predictive Models** - Exploring different ML algorithms to predict real-world outcomes.
-- 🔄 **Data Pipelines** - Building data pipelines for data cleaning, transformation, and analysis.
-- 💬 **Conversational AI** - Designing chatbot systems that integrate persona, mood tracking, and context-aware dialogues.
+- 🔌 **AI System Integration** – Embedding LLMs, RAG, and multimodal AI into SaaS and backend products.  
+- 🧠 **Intelligent Workflows** – Combining automation, AI reasoning, and data pipelines for smarter systems.  
+- 💬 **Conversational AI** – Designing chatbot platforms with context-awareness, persona, and multi-model support.  
+- 📡 **Scalable APIs** – Building production-ready backend services with high availability.  
 
 ## 📫 Connect With Me
 
-You can reach out to discuss projects, collaboration, or just have a tech chat!
+Open for discussions on **AI integration, backend architecture, or SaaS projects**.  
+Always down for a chat about scaling intelligent systems 🚀
