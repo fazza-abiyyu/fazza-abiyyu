@@ -26,4 +26,4 @@ Always down for a chat about scaling intelligent systems 🚀
 
 [![QQ Email](https://img.shields.io/badge/Email-fazza__abiyyu%40qq.com-blue?logo=qq&logoColor=white)](mailto:fazza_abiyyu@qq.com)
 [![QQ ID](https://img.shields.io/badge/QQ-fazza__abiyyu-red?logo=tencent-qq&logoColor=white)](https://im.qq.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-fazza__abiyyu-purple?logo=instagram&logoColor=white)](https://instagram.com/fazza_abiyyu)
