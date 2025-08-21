@@ -23,3 +23,6 @@ I focus on building scalable backends, integrating AI models into production, an
 
 Open for discussions on **AI integration, backend architecture, or SaaS projects**.  
 Always down for a chat about scaling intelligent systems 🚀
+
+- 📧 Email (QQ): [fazza_abiyyu@qq.com](mailto:fazza_abiyyu@qq.com)  
+- 💬 QQ: fazza_abiyyu  
