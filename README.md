@@ -24,5 +24,6 @@ I focus on building scalable backends, integrating AI models into production, an
 Open for discussions on **AI integration, backend architecture, or SaaS projects**.  
 Always down for a chat about scaling intelligent systems 🚀
 
-- 📧 Email (QQ): [fazza_abiyyu@qq.com](mailto:fazza_abiyyu@qq.com)  
-- 💬 QQ: fazza_abiyyu  
+[![QQ Email](https://img.shields.io/badge/Email-fazza__abiyyu%40qq.com-blue?logo=qq&logoColor=white)](mailto:fazza_abiyyu@qq.com)
+[![QQ ID](https://img.shields.io/badge/QQ-fazza__abiyyu-red?logo=tencent-qq&logoColor=white)](https://im.qq.com)
+
