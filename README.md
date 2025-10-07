@@ -21,7 +21,8 @@ I focus on building scalable backends, integrating AI models into production, an
 
 ## 📦 Published Packages
 
-- 📦 [`exnest-ai-sdk`](https://www.npmjs.com/package/@exnest-dev/ai) – SDK for the **Exnest AI ecosystem**, a universal AI connector and SaaS platform.  
+- 📦 [`exnest-ai-sdk-npm`](https://www.npmjs.com/package/@exnest-dev/ai) – SDK for the **Exnest AI ecosystem**, a universal AI connector and SaaS platform.
+- 📦 [`exnest-ai-sdk-pypi`](https://pypi.org/project/exnest-ai)– SDK for the **Exnest AI ecosystem**, a universal AI connector and SaaS platform.  
 - 📦 [`swarm-wave-backend`](https://github.com/fazza-abiyyu/swarm-wave) – Backend for Swarmwave (multi-agent scheduling using ACO/PSO).  
 - 📦 [`swarm-wave-frontend`](https://github.com/fazza-abiyyu/swarm-wave) – Frontend (Nuxt + Tailwind) for Swarmwave simulation playground.  
 
