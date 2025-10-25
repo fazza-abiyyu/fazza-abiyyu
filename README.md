@@ -9,7 +9,7 @@
 
 <h3 align="center" style="font-weight:500; color:#7AA2F7;">
   <span style="animation:flicker 3s infinite alternate; text-shadow:0 0 10px rgba(122,162,247,0.8);">
-    Integrating Data, Logic, and Reasoning
+    Backend Developer · AI Integration
   </span>
 </h3>
 
