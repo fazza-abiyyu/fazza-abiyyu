@@ -1,111 +1,63 @@
-<div align="center">
-
-<h1>👋 Hi, I'm Fazza Abiyyu</h1>
-
-<h3>AI Integration Specialist & Backend Developer</h3>
-
-<p>
-Saya passionate tentang menghubungkan sistem cerdas dengan aplikasi dunia nyata.
-<br />
-Fokus saya adalah membangun backend yang scalable, mengintegrasikan model AI ke production, dan merancang sistem automasi yang fungsional.
-</p>
-
-<!-- Social Badges -->
-
-<p>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/fazza-abiyyu"> <!-- GANTI DENGAN LINKEDIN ANDA -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Flogo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="mailto:fazza_abiyyu@qq.com">
-<img src="https://img.shields.io/badge/Email-fazza__abiyyu%40qq.com-blue?logo=qq&logoColor=white" alt="Email"/>
-</a>
-<a href="https://instagram.com/fazza_abiyyu">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Flogo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram"/>
-</a>
-</p>
-</div>
-
-🎯 Core Focus
-
-🔌 AI System Integration: Menanamkan LLM, RAG, dan AI multimodal ke dalam produk SaaS dan backend.
-
-🧠 Intelligent Workflows: Menggabungkan automasi, AI reasoning, dan data pipeline untuk sistem yang lebih cerdas.
-
-💬 Conversational AI: Merancang platform chatbot dengan context-awareness, persona, dan dukungan multi-model.
-
-📡 Scalable APIs: Membangun backend service production-ready dengan ketersediaan tinggi.
-
-🚀 Tech Stack
-
-<div align="left">
-
-Languages & Runtimes:
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Flogo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Flogo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
-
-Backend & Frameworks:
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Flogo%3Dfastapi%26logoColor%3Dwhite" alt="FastAPI"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NestJS-E0234E%3Flogo%3Dnestjs%26logoColor%3Dwhite" alt="NestJS"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Flogo%3Dflask%26logoColor%3Dwhite" alt="Flask"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Nuxt.js-00DC82%3Flogo%3Dnuxt.js%26logoColor%3Dwhite" alt="Nuxt.js"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Flogo%3Dexpress%26logoColor%3Dwhite" alt="Express.js"/>
-</p>
-
-AI & Data Science:
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-FFFFFF%3Flogo%3Dlangchain%26logoColor%3Dblack" alt="LangChain"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Flogo%3Dtensorflow%26logoColor%3Dwhite" alt="TensorFlow"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit--learn-F7931E%3Flogo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-learn"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Flogo%3Dpandas%26logoColor%3Dwhite" alt="Pandas"/>
-</p>
-
-Databases & DevOps:
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Flogo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Flogo%3Dmysql%26logoColor%3Dwhite" alt="MySQL"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Flogo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Prisma-2D3748%3Flogo%3Dprisma%26logoColor%3Dwhite" alt="Prisma"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Flogo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/n8n-1A1A1A%3Flogo%3Dn8n%26logoColor%3Dwhite" alt="n8n"/>
-</p>
-</div>
-
-🔧 Key Projects & Packages
-
-📦 Exnest AI SDK (NPM | PyPI)
-
-
-
-
- SDK untuk ekosistem Exnest AI, sebuah universal AI connector dan platform SaaS.
-
-🌊 Swarm Wave (Repo)
-
-
-
-
- Backend & Frontend untuk simulasi penjadwalan multi-agent menggunakan algoritma ACO/PSO.
-
-📊 My GitHub Stats
+<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Fazza Abiyyu</span></h1>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfazza-abiyyu%26show_icons%3Dtrue%26rank_icon%3Dgithub%26theme%3Dtokyonight" alt="Fazza's GitHub Stats" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dfazza-abiyyu%26layout%3Dcompact%26theme%3Dtokyonight" alt="Top Languages" />
+  <em>AI Integration Specialist • Backend Developer • Automation Enthusiast</em>
 </p>
 
 <p align="center">
-Terbuka untuk diskusi mengenai <strong>AI integration, backend architecture, atau proyek SaaS</strong>.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=4F46E5&center=true&vCenter=true&width=550&lines=AI+Integration+Specialist;Backend+Developer;Building+Intelligent+Systems;Connecting+Data+%26+Automation+with+AI" alt="Typing Animation" />
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+| Category | Tools & Frameworks |
+|-----------|--------------------|
+| 🐍 **Python** | FastAPI · Flask · Data Science workflows |
+| 💻 **TypeScript/JS** | Node.js · Nuxt.js · NestJS · Express.js |
+| 🤖 **AI Integration** | LLM APIs · LangChain · RAG Pipelines · Chatbot Orchestration |
+| 📊 **ML / Data Eng** | TensorFlow · Scikit-learn · Pandas · ETL pipelines |
+| 🗄️ **Databases** | MySQL · PostgreSQL · MongoDB · Prisma ORM |
+| ⚙️ **DevOps / Automation** | Docker · CI/CD · n8n · API Orchestration |
+
+---
+
+### 🔬 Projects & Interests
+
+- 🔌 **AI System Integration** – Embedding LLMs, RAG, and multimodal AI into SaaS and backend products.  
+- 🧠 **Intelligent Workflows** – Combining automation, AI reasoning, and data pipelines for smarter systems.  
+- 💬 **Conversational AI** – Designing chatbot platforms with context-awareness and multi-model support.  
+- 📡 **Scalable APIs** – Building production-ready backend services with high availability.
+
+---
+
+### 📦 Published Packages
+
+| Package | Description |
+|----------|--------------|
+| [**@exnest-dev/ai (npm)**](https://www.npmjs.com/package/@exnest-dev/ai) | SDK for **Exnest AI** ecosystem – universal AI connector platform. |
+| [**exnest-ai (PyPI)**](https://pypi.org/project/exnest-ai) | Python SDK for **Exnest AI**, connecting multiple AI providers easily. |
+| [**swarm-wave-backend**](https://github.com/fazza-abiyyu/swarm-wave) | Backend for SwarmWave – multi-agent scheduling (ACO/PSO). |
+| [**swarm-wave-frontend**](https://github.com/fazza-abiyyu/swarm-wave) | Nuxt + Tailwind frontend playground for SwarmWave simulation. |
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:fazza_abiyyu@qq.com">
+    <img src="https://img.shields.io/badge/Email-fazza__abiyyu%40qq.com-blue?logo=qq&logoColor=white" />
+  </a>
+  <a href="https://im.qq.com">
+    <img src="https://img.shields.io/badge/QQ-fazza__abiyyu-red?logo=tencent-qq&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/fazza_abiyyu">
+    <img src="https://img.shields.io/badge/Instagram-fazza__abiyyu-purple?logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fazza-abiyyu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazza-abiyyu&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
