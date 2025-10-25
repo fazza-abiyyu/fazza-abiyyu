@@ -108,8 +108,3 @@ An **intelligent multi-agent scheduler** using **ACO & PSO algorithms** to optim
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&animation=twinkling&color=0:%231a1b27,100:%238B5CF6"/>
-</div>
-
