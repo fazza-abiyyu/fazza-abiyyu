@@ -72,12 +72,12 @@ An **intelligent multi-agent scheduler** using **ACO & PSO algorithms** to optim
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=fazza-abiyyu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazza-abiyyu&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fazza-abiyyu&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazza-abiyyu&theme=nightowl&hide_border=true" height="165" />
 
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazza-abiyyu&theme=tokyonight" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazza-abiyyu&theme=nightowl" width="90%"/>
 
 </div>
 
