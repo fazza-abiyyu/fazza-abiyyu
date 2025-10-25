@@ -13,17 +13,6 @@
   </span>
 </h3>
 
-<style>
-@keyframes flicker {
-  0%, 18%, 22%, 25%, 53%, 57%, 100% {
-    opacity: 1;
-  }
-  20%, 24%, 55% {
-    opacity: 0.4;
-  }
-}
-</style>
-
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Connecting+AI+to+Real-World+Systems;Designing+Intelligent+Automation;Building+Scalable+Backends;Integrating+Data,+Logic,+and+Reasoning" alt="Typing Animation"/>
 
@@ -121,6 +110,6 @@ An **intelligent multi-agent scheduler** using **ACO & PSO algorithms** to optim
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=%238B5CF6,%237AA2F7,%23BB9AF7&height=80&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&animation=twinkling&color=0:%231a1b27,100:%238B5CF6"/>
 </div>
 
