@@ -7,9 +7,23 @@
     </span>
   </h1>
 
-  <h3 style="color:#7AA2F7; font-weight:500; text-shadow:0 0 8px rgba(122,162,247,0.7);">
-    AI Integration Specialist · Backend Developer
-  </h3>
+<h3 align="center" style="font-weight:500; color:#7AA2F7;">
+  <span style="animation:flicker 3s infinite alternate; text-shadow:0 0 10px rgba(122,162,247,0.8);">
+    Integrating Data, Logic, and Reasoning
+  </span>
+</h3>
+
+<style>
+@keyframes flicker {
+  0%, 18%, 22%, 25%, 53%, 57%, 100% {
+    opacity: 1;
+  }
+  20%, 24%, 55% {
+    opacity: 0.4;
+  }
+}
+</style>
+
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Connecting+AI+to+Real-World+Systems;Designing+Intelligent+Automation;Building+Scalable+Backends;Integrating+Data,+Logic,+and+Reasoning" alt="Typing Animation"/>
 
@@ -107,5 +121,6 @@ An **intelligent multi-agent scheduler** using **ACO & PSO algorithms** to optim
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,7AA2F7,BB9AF7&height=80&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=%238B5CF6,%237AA2F7,%23BB9AF7&height=80&section=footer&animation=twinkling"/>
 </div>
+
