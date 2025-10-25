@@ -2,7 +2,7 @@
 <div align="center">
 
   <h1 style="font-weight:700;">👋 Hi, I'm <span style="color:#8B5CF6;">Fazza Abiyyu</span></h1>
-  <h3>AI Integration Specialist · Backend Developer · Automation Architect</h3>
+  <h3>AI Integration Specialist · Backend Developer</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Connecting+AI+to+Real-World+Systems;Designing+Intelligent+Automation;Building+Scalable+Backends;Integrating+Data,+Logic,+and+Reasoning" alt="Typing Animation"/>
 
