@@ -41,7 +41,7 @@ LLM APIs · LangChain · RAG Pipelines · Chatbot Systems · Vector Indexing
 Node.js · TypeScript · FastAPI · Flask · Express/NestJS · REST & SSE APIs  
 
 #### 📊 Data & Intelligence  
-Pandas · Scikit-learn · TensorFlow · Workflow Automation · ETL Pipelines  
+Pandas · Scikit-learn · Workflow Automation · ETL Pipelines  
 
 #### 🗄️ Infrastructure & DevOps  
 PostgreSQL · MySQL · MongoDB · Prisma ORM · Docker · CI/CD · Azure · Vercel  
