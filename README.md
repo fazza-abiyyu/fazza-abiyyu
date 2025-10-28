@@ -78,21 +78,6 @@ An **intelligent multi-agent scheduler** using **ACO & PSO algorithms** to optim
 
 ---
 
-### 📊 GitHub Analytics  
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=fazza-abiyyu&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=7AA2F7&icon_color=BB9AF7&include_all_commits=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazza-abiyyu&hide_border=true&background=1A1B27&currStreakLabel=8B5CF6&sideNums=7AA2F7&sideLabels=7AA2F7&ring=8B5CF6&fire=BB9AF7" height="165" />
-
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazza-abiyyu&theme=tokyonight" width="90%"/>
-
-</div>
-
----
-
 ### 🌐 Connect With Me  
 
 <div align="center">
