@@ -12,11 +12,6 @@
     Backend Developer · AI Integration
   </span>
 </h3>
-
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Connecting+AI+to+Real-World+Systems;Designing+Intelligent+Automation;Building+Scalable+Backends;Integrating+Data,+Logic,+and+Reasoning" alt="Typing Animation"/>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=bb9af7&height=2&section=header"/>
 </div>
 
 ---
