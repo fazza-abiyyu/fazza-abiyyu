@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Fazza
+# Hi, I'm Fazza 👋
 
-I use **TypeScript**.  
+I mainly work with **TypeScript**.
 
-> 中文: 学习中 *(xuéxí zhōng — still learning)*
+> 中文：学习中  
+> *(xuéxí zhōng — still learning)*
 
-📩 Email: fazza_abiyyu@qq.com  
-📷 IG: @fazza_abiyyu
+📩 fazza_abiyyu@qq.com  
+📷 @fazza_abiyyu
