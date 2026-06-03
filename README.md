@@ -1,9 +1,14 @@
-# Hi, I'm Fazza 👋
+# Hi, I'm Fazza
 
-I mainly work with **TypeScript**.
+System Analyst and QA Engineer with experience in backend development and AI integration.
 
-> 中文：学习中  
-> *(xuéxí zhōng — still learning)*
+Interested in translating business needs into scalable solutions, ensuring software quality, and designing effective systems.
 
-📩 fazza_abiyyu@qq.com  
-📷 @fazza_abiyyu
+Areas of focus:
+- System Analysis
+- Business Analysis
+- Quality Assurance
+- AI Solutions & Integration
+
+📧 fazza_abiyyu@qq.com
+🌐 fazza-abiyyu.xyz
