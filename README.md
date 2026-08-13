@@ -7,7 +7,7 @@ Former backend developer specializing in system analysis, software quality assur
 📚 Case Studies
 
 - [Exnest](https://fazza.abiyyu.xyz/case-study/exnest) — AI Gateway Platform
-- [SwarmWave](https://fazza.abiyyu.xyz/case-study/swarmwave) — Undergraduate Research Project
+- [Yue Browser](https://github.com/fazza-abiyyu/Yue-Browser) — Privacy-focused Android Browser
 - [QWERTY](https://fazza.abiyyu.xyz/case-study/qwerty) — QA Automation Ecosystem
 
 📧 fazza_abiyyu@qq.com
