@@ -1,6 +1,6 @@
 # Hi, I'm Fazza
 
-## Playground in the Code
+Playing around with code
 
 📚 Case Studies
 
