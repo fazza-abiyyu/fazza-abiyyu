@@ -1,8 +1,6 @@
 # Hi, I'm Fazza
 
-🔎 System Analyst | QA Engineer
-
-Former backend developer specializing in system analysis, software quality assurance, and solution design.
+## Playground in the Code
 
 📚 Case Studies
 
