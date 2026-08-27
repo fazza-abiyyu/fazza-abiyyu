@@ -9,5 +9,10 @@ Playing around with code
 - [QWERTY](https://fazza.abiyyu.xyz/works/qwerty) — QA Automation Ecosystem
 - [CP Center](https://cpcenter.biz.id) — Business Operations Platform
 
+🧩 Store
+
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/user/20109586/) — My Firefox extensions
+- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/search?developer=Void%20VA) — My Edge extensions
+
 📧 fazza_abiyyu@qq.com
 🌐 fazza.abiyyu.xyz
