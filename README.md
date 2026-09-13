@@ -14,4 +14,4 @@ Playing around with code
 - [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/search?developer=Void%20VA) — My Edge extensions
 
 📧 fazza_abiyyu@qq.com
-🌐 [who?] (https://who.v-va.cc)
+🌐 [who?](https://who.v-va.cc)
